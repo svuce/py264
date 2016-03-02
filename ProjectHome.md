@@ -1,0 +1,1 @@
+The goal of this personal project is to create reference implementation of H264/AVC codec completely in Python. In this way one can easily  experiment  on improvement of specific video coding modules in order to enhance the overall compression performance, coder/decoder complexity or scalability.
